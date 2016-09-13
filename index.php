@@ -1,1 +1,1 @@
-<?php include_once("/views/todo.ejs"); ?>
+<?php include_once("todo.ejs"); ?>
